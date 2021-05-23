@@ -1,2 +1,2 @@
-# Second-Yesr-Engg.-Assignments-in-Python
+# Second-Year-Engg.-Assignments-in-Python
 This repository contains 6 Python assignment required for second year engg. 
